@@ -1,1 +1,2 @@
 # Acute-Chronic-Workload-Ratio-Tracker-2026
+This app calculates the acute chronic workload ratio based on the intensity and duration of activities that the user inputs (multiple activities can be tracked). The output features a graph, analysis, and a table. The app both analyzes past activities and helps the user manage future activities. I created this app to track my activities while I was training for tennis and cross-country so the app can currently only be used by one person at a time.
