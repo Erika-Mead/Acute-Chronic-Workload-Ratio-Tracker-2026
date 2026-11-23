@@ -32,8 +32,8 @@ library(lubridate)
 #-------------------------------------------------------------------------------------
 # Google Service Account Authentication
 #-------------------------------------------------------------------------------------
-gs4_auth(path="science-fair-25-26-480503-0d897a28ca09.json")
-drive_auth(path="science-fair-25-26-480503-0d897a28ca09.json")
+#gs4_auth(path="science-fair-25-26-480503-0d897a28ca09.json")
+#drive_auth(path="science-fair-25-26-480503-0d897a28ca09.json")
 
 gs4_auth(path = ".secrets/service-account.json")
 drive_auth(path = ".secrets/service-account.json")
@@ -45,6 +45,10 @@ sheet_id <-"https://docs.google/com/spreadsheets/d/1iiHv9shnGi-0TNIEIZx43yIRRBwu
 data_tab<-"data"
 activities_tab<-"activities"
 colors_tab <- "colors"
+
+#-------------------------------------------------------------------------------------
+# UI: User Interface
+#--------------------------------------------------------------------------------------
 
 
 
