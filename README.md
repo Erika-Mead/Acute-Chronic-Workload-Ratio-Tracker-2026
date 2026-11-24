@@ -18,4 +18,4 @@ This app calculates the acute chronic workload ratio based on the intensity and 
 <img width="1558" height="1507" alt="image" src="https://github.com/user-attachments/assets/ce7c1b52-7b3f-4bb6-8e65-969c16f63983" />
 
 ## Limitations
-- The app was designed for only one user at a time. In the future, it can be expanded to multiple users. 
+- The app was designed for only one user at a time, so the code has to be updated to point to each user’s google sheet, google service account, and json file. In the future, the code could be expanded to accomodate multiple users.
